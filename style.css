@@ -1,0 +1,124 @@
+body{
+    background-color: #040404;
+}
+
+.nav{
+    background-color: #121e32;
+}
+
+.navFont{
+    font-size:13px; 
+    font-family : Helvetica;
+}
+
+.logo{
+    width:53px;
+    height:53px;
+}
+
+.munBody{
+    background-image:url("mun1.jpg");
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:0.8;
+}
+
+.box{
+    background-color : #efebeb1f;
+    border-radius: 25px;
+}
+
+.btns{
+    border-radius: 25px;
+    width:130px;
+}
+
+.munplace{
+    padding:90px;
+}
+
+.seattle{
+    background-image:url("seattle.jpg");
+    height:450px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+.washington{
+    background-image:url("washington.jpg");
+    height:450px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tokyo{
+    background-image:url("tokyo.jpg");
+    height:450px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.place{
+    
+    box-shadow: 0px 0px 8px 1px #f5efef;
+}
+
+.blog{
+    background-image:url("blog.jpg");
+    height:250px;   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+.blg{
+    box-shadow: 0px 0px 8px 1px #f5efef;
+}
+
+.footer{
+    background-color:#121e32;
+    padding:60px;
+}
+
+.contact{
+    border-radius: 25px;
+    box-shadow: 0px 0px 28px 7px #f5efef;
+}
+
+.quote{
+    background-color:#3880d0;
+    border-radius:25px;
+    box-shadow:-22px 0px 1px -12px #76a0cf,-42px 0px 2px -26px #8abcf1;
+}
+.carousel-indicators .active{
+    background-color:#3880d0;
+}
+
+.carousel-indicators .indi{
+    background-color:#c4c4c4;
+}
+
+.carousel-control-next-icon{
+    background-color:blue;
+}
+
+.carousel-control-prev-icon{
+    background-color:blue;
+}
+
+.carousel-indicators {    
+    position:relative;
+    bottom:-300px;    
+}
+
+.review{
+    border-radius: 150px;
+}
+
+.links{
+    font-size:12px;
+}
