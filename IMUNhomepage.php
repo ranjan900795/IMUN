@@ -1,8 +1,8 @@
 <html>
     <head>        
         <title>International Model United Nations</title>
-        <link rel="stylesheet" href="./bootstrap.min.css"/>
-        <link rel="stylesheet" href="./style.css"/>
+        <link rel="stylesheet" href="./css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="./css/style.css"/>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
@@ -10,7 +10,7 @@
             <div class="row px-5">
                 <div class="col-12  p-0 py-2 nav">                    
                     <div class="col-4 d-flex flex-row justify-content-center">
-                        <img class="logo" src="./logo.png">
+                        <img class="logo" src="./img/logo.png">
                         <p class="text-white font-weight-normal m-0 navFont pt-2 pl-2">International</br> Model United Nations</p>
                     </div>
                     <div class="col-8 d-flex flex-row justify-content-around align-items-center">
@@ -80,7 +80,7 @@
                     <div class="col-12  d-flex -flex-column justify-content-around pt-5">
                         <div class="col-5  place py-3 d-flex flex-row">
                             <div class="col-2">
-                                <img src="fb.jpg">
+                                <img src="./img/fb.jpg">
                             </div>
                             <div class="col-10">
                                 <p class="font-weight-bold ">Powerful Marketing and</br>Conference Management Tools</p>
@@ -90,7 +90,7 @@
                         </div>
                         <div class="col-5 ml-1 place py-3 d-flex flex-row">
                             <div class="col-2">
-                                <img src="beach.jpg">
+                                <img src="./img/beach.jpg">
                             </div>
                             <div class="col-10">
                                 <p class="font-weight-bold ">The Biggest MUN Database</br>with Easy Applications</p>
@@ -102,7 +102,7 @@
                     <div class="col-12 d-flex -flex-column justify-content-around pt-4">
                         <div class="col-5 mr-1 place py-3 d-flex flex-row">
                             <div class="col-2">
-                                <img src="travel.jpg">
+                                <img src="./img/travel.jpg">
                             </div>
                             <div class="col-10">
                                 <p class="font-weight-bold ">Personalized Travel Service</br>for Your Delegation</p>
@@ -112,7 +112,7 @@
                         </div>
                         <div class="col-5 ml-1 place py-3 d-flex flex-row">
                             <div class="col-2">
-                                <img src="flight.jpg">
+                                <img src="./img/flight.jpg">
                             </div>
                             <div class="col-10">
                                 <p class="font-weight-bold ">The Best Flights, Hotels,</br>Trips and Insurances</p>
@@ -176,7 +176,7 @@
                                     </div>
                                     <div class="col-5 ">
                                         <div class="col-12 pt-5 px-5 ">
-                                            <img src="sand.jpeg" class="review h-50">
+                                            <img src="./img/sand.jpeg" class="review h-50">
                                         </div>
                                         <div class=col-12>
                                             <p class="text-info px-4 pt-2 h5">Sand Siwapron</p>
@@ -276,8 +276,8 @@
                 </div>
             </div>            
         </div>
-        <script type="text/javascript" src="./jquery-3.3.1.min.js"></script>
-        <script type="text/javascript" src="./bootstrap.js"></script>
-        <script type="text/javascript" src="./bootstrap.min.js"></script>
+        <script type="text/javascript" src="./js/jquery-3.3.1.min.js"></script>
+        <script type="text/javascript" src="./js/bootstrap.js"></script>
+        <script type="text/javascript" src="./js/bootstrap.min.js"></script>
     </body>
 </html>

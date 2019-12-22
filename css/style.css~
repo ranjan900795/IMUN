@@ -17,7 +17,7 @@ body{
 }
 
 .munBody{
-    background-image:url("mun1.jpg");
+    background-image:url("../img/mun1.jpg");
     height: 600px;
     background-position: center;
     background-repeat: no-repeat;
@@ -40,7 +40,7 @@ body{
 }
 
 .seattle{
-    background-image:url("seattle.jpg");
+    background-image:url("./img/seattle.jpg");
     height:450px;
     background-position: center;
     background-repeat: no-repeat;
@@ -48,14 +48,14 @@ body{
 }
 
 .washington{
-    background-image:url("washington.jpg");
+    background-image:url("./img/washington.jpg");
     height:450px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .tokyo{
-    background-image:url("tokyo.jpg");
+    background-image:url("./img/tokyo.jpg");
     height:450px;
     background-position: center;
     background-repeat: no-repeat;
@@ -68,7 +68,7 @@ body{
 }
 
 .blog{
-    background-image:url("blog.jpg");
+    background-image:url("./img/blog.jpg");
     height:250px;   
     background-position: center;
     background-repeat: no-repeat;
